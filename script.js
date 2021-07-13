@@ -1,5 +1,3 @@
-
-var site1 = "https://dog.ceo/api/breed/";
 var breed = "";
 
 function fetch(){
