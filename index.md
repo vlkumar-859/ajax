@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>smaple ajax</title>
+        <title>sample ajax</title>
         <style>
             body{
                 text-align: center;
