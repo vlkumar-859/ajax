@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>ssmaple ajax</title>
+        <title>smaple ajax</title>
         <style>
             body{
                 text-align: center;
