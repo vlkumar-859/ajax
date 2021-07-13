@@ -13,6 +13,5 @@ function fetch(){
     }
 
     xhttp.open("GET","https://dog.ceo/api/breed/"+breed+"/images/random");
-   //xhttp.open("GET","https://dog.ceo/api/breeds/image/random");
     xhttp.send();
 }
