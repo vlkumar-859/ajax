@@ -7,6 +7,7 @@ function fetch(){
     xhttp.onload = function(){
         var res = xhttp.response;
         res = JSON.parse(res);
+        document.getElementById("txt").innerHTML = "";
         document.getElementById("res-img").src = res.message;
     }
 
